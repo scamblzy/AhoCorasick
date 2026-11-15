@@ -1,0 +1,39 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Java build tools
+target/
+build/
+.gradle/
+
+# Kotlin
+.kotlin/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
